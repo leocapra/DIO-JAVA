@@ -14,7 +14,7 @@ Um projeto de desenvolvimento para a dominação de uma ferramenta necessária p
 
 ## 📚 Documentação 
 -  [Documentação Git](https://git-scm.com/doc)
--  [Documentação GitHub](https://docs.github.com/pt)
+-  [Documentação GitHub](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
 ## 🖥️ Resumos das Aulas
 | Aulas | Resumos |
