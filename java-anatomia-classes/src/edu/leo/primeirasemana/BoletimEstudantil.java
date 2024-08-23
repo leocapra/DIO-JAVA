@@ -1,3 +1,5 @@
+package edu.leo.primeirasemana;
+
 public class BoletimEstudantil {
     public static void main(String[] args) {
 //exemplos de identação (sem identação)
