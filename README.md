@@ -1,4 +1,4 @@
-# Curso  de Java Básico DIO
+# Curso da DIO
 
 # Leocapra
 Olá, me chamo Leonardo Capra. Estou começando nesse mundo de desenvolvimento, e estou me esforçando muito para conseguir me desenvolver dentro do mercado de trabalho e ser concorrido pelas empresas. Criei gosto em aprender linguagens de programação, e tenho muito interesse em aprender mais sobre lógica de programação. Penso em coisas que podem valer para meu CV e o principal, penso em de fato saber por a mão na massa, mostrar o que eu sei.
