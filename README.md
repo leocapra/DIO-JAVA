@@ -34,6 +34,9 @@ Meu perfil
 
 - [dio.me/user/leoccapra](https://web.dio.me/users/leoccapra/?tab=achievements)
 
+  
+- https://github.com/leocapra/dio-trilha-java-basico outro repositório interessante!
+
 
 
 # DIO projeto de estudo para GIT e GITHUB
